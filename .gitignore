@@ -1,6 +1,4 @@
-﻿target/
-test-classes/
-classes/
+﻿classes/
 lib/
 .settings/
 .myeclipse/
@@ -8,3 +6,5 @@ lib/
 .mymetadata
 .myumldata
 .project
+
+/target
