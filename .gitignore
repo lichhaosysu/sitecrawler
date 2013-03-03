@@ -1,0 +1,10 @@
+﻿target/
+test-classes/
+classes/
+lib/
+.settings/
+.myeclipse/
+.classpath
+.mymetadata
+.myumldata
+.project
